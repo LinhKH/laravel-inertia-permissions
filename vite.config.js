@@ -17,4 +17,10 @@ export default defineConfig({
             },
         }),
     ],
+    // "compilerOptions": {
+    //     "baseUrl": ".",
+    //     "paths": {
+    //         "@/*": ["resources/js/*"]
+    //     }
+    // },
 });
